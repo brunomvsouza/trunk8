@@ -1,8 +1,12 @@
 {
-  "name": "trunk8",
-  "version": "1.3.3-4",
+  "name": "brunomvsouza-trunk8",
+  "version": "1.3.4",
   "main": "./trunk8.js",
   "dependencies": {
     "jquery": ">=1"
-  }
+  },
+  "homepage": "https://github.com/brunomvsouza/trunk8",
+  "description": "trunk8 is an intelligent text truncation extension to jQuery. When applied to a large block of text, trunk8 will cut off just enough text to prevent it from spilling over.",
+  "moduleType": [],
+  "license": ""
 }
