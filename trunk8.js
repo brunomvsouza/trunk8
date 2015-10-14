@@ -101,7 +101,7 @@
 									content = bite;
 									// We want the fill to go inside of the last HTML
 									// element if the element is a container.
-									if (tagInfo === 'p' || tagInfo === 'div') {
+									if (tagInfo === 'p' || tagInfo === 'div' || tagInfo === 'a') {
 										content += fill;
 									}
 									bite = '';
